@@ -1,0 +1,13 @@
+https://www.linkedin.com/pulse/creating-35-web-server-using-raspberry-pi-windows-10-rob-walters
+
+https://www.hackster.io/iddi/windows-10-iot-core-publish-asp-net-web-application-d9dcd4
+
+https://github.com/esp8266/Arduino
+
+https://github.com/ChuckBell/MySQL_Connector_Arduino
+
+https://developer.microsoft.com/en-us/windows/iot/win10/tools/IoTAPIPortingTool.htm
+
+https://www.microsoft.com/en-us/software-download/windowsiot
+
+http://esp8266.github.io/Arduino/versions/2.0.0/doc/libraries.html
