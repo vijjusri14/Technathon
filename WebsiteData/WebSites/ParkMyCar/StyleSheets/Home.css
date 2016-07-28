@@ -1,0 +1,59 @@
+﻿body {
+            background: #fff;
+            color: #505050;
+            font: 14px 'Segoe UI', tahoma, arial, helvetica, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+
+        #header {
+            background: #40C4FF;
+            height:100px;
+            padding: 0;
+            border-radius:5px;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: normal;
+            margin: 0;
+            padding: 0 30px;
+            line-height: 110px;
+        }
+        #iconCar{
+            position:absolute;
+            top:50px;
+            left:320px;
+        }
+
+        p {
+            font-size: 20px;
+            color: #fff;
+            background: #969696;
+            padding: 0 30px;
+            line-height: 40px;
+            border-radius:5px;
+            width:305px;
+            position:absolute;
+            left:470px;
+            top:120px;
+        }
+.selectionbar {
+    position:absolute;
+    top: 188px;
+    left: 97px;
+    height: 41px;
+    padding:0 40px;
+    width: 1000px;
+}
+.slotmap {
+    border-style:dotted;
+    border-color: inherit;
+    border-width: medium;
+    height:309px;
+    width:710px;
+    position:absolute;
+    left:333px;
+    top:347px;
+    }
+
