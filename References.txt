@@ -1,5 +1,7 @@
 https://github.com/rramoscabral/RaspberryPi-ASP.NET_5
 
+https://docs.asp.net/en/latest/getting-started.html#installing-on-debian-ubuntu-and-derivatives
+
 https://www.linkedin.com/pulse/creating-35-web-server-using-raspberry-pi-windows-10-rob-walters
 
 https://www.hackster.io/iddi/windows-10-iot-core-publish-asp-net-web-application-d9dcd4
